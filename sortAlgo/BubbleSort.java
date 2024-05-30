@@ -1,6 +1,7 @@
-package bubblesort;
+package sortAlgo;
+
 import java.util.*;
-public class Main {
+public class BubbleSort {
     public static void main(String[] args) {
         int[] array = {1, 22, 3, 44, 6 ,10 , 12, 55, 30, 12};
         for (int i = 0;i < array.length-1; ++i) {

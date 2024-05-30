@@ -1,5 +1,7 @@
+package searchAlgo;
+
 import java.util.*;
-public class Main {
+public class InterpolationSearch {
 
     public static void main(String[] args) {
         int[] array = new int[1000];
