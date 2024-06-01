@@ -8,7 +8,7 @@ public class LinearSearch {
         int target = 14;
         
         int index = linearSearch(array, target);
-        if (index!=-1) System.out.println(target + "is at: " + index);
+        if (index!=-1) System.out.println(target + " is at: " + index);
         else System.out.println("nah");
     }
     private static int linearSearch (int[] array, int target) {

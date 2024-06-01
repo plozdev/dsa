@@ -6,7 +6,7 @@ public class BinarySearch {
         int target = 14;
         
         int index = binarySearch(array, target);
-        if (index!=-1) System.out.println(target + "is at: " + index);
+        if (index!=-1) System.out.println(target + " is at: " + index);
         else System.out.println("nah");
     }
 
